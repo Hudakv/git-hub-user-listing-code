@@ -4,6 +4,10 @@
 API_URL="https://api.github.com"
 
 # GitHub username and personal access token
+# export username and token before executing the file using the below command in your terminal:
+# export USERNAME="<username>
+#export TOKEN= "<tokend id> "
+
 USERNAME=$username
 TOKEN=$token
 
